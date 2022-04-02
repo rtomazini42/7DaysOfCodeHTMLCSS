@@ -47,3 +47,33 @@
     background-color: #8E2424;
     color: #FFF;
   }
+
+
+  #sobre_nos{
+    text-align: center;
+  }
+
+  #sobre_nos h4{
+    margin-top: 96px;
+    font-weight: 600;
+    font-size: 16px;
+  }
+
+  #sobre_nos h1{
+    margin-top: 48px;
+    font-weight: 600;
+    font-size: 48px;
+  }
+  
+  #sobre_nos p{
+    margin-top: 48px;
+    font-weight: 400;
+    font-size: 20px;
+  }
+
+  .metricas-container{
+    display: inline-flex;
+  }
+  .metricas-container div{
+    margin: 10px;
+  }
