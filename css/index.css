@@ -21,9 +21,16 @@
     padding: 1rem 0;
   }
 
+
   #logotipo{
     color:#3A404E;
-    display:block;
+    display:inline-block;
+  }
+
+
+
+  #logotipo p{
+    display:inline-block;
   }
   
   .links a {
