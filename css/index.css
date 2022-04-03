@@ -24,7 +24,8 @@
 
   #logotipo{
     color:#3A404E;
-    display:inline-block;
+    display:flex;
+    align-items: center;
   }
 
 
