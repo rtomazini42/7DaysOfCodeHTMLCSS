@@ -85,3 +85,77 @@
   .metricas-container div{
     margin: 10px;
   }
+
+  .vagas {
+    margin: 36px;
+  }
+
+  .vagas h4{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #8E2424;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 12px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    text-align: center;
+    background-color: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 350px;
+  }
+
+  .vagas h2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+
+    /* identical to box height, or 122% */
+    text-align: center;
+    letter-spacing: -0.02em;
+  }
+
+  .vagas h3{
+
+    left: 0px;
+    top: 108px;
+
+    /* Text xl/Normal */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+
+    /* identical to box height, or 150% */
+    text-align: center;
+
+    /* Gray/500 */
+    color: #667085;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin: 20px 0px;
+  }
+
+  .vagas img{
+    height: auto;
+    width: 100%;
+
+  }

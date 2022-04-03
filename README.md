@@ -6,3 +6,5 @@
 <br>2 Dia - Criação do quem somos<br/>
 
 <br>3 Dia - Métricas adicionadas<br/>
+
+<br>4 Dia - Imagem adicionada<br/>
