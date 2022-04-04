@@ -8,3 +8,5 @@
 <br>3 Dia - Métricas adicionadas<br/>
 
 <br>4 Dia - Imagem adicionada<br/>
+
+<br>5 Dia - Vagas adicionadas<br/>
