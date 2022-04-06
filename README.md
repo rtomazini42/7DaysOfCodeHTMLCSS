@@ -10,3 +10,5 @@
 <br>4 Dia - Imagem adicionada<br/>
 
 <br>5 Dia - Vagas adicionadas<br/>
+
+<br>6 Dia - Seção de depoimentos adicionados<br/>

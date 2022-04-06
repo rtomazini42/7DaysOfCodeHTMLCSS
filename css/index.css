@@ -207,4 +207,53 @@
     padding-right: 24px;
   }
 
-  
+  .depoimentos{
+    text-align: center;
+    background: rgba(196, 25, 25, 0.03);
+  }
+
+  .depoimentos .veja{
+    padding-top: 64px;
+    padding-bottom: 16px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #8E2424;
+    margin-top: 96px;
+
+  }
+
+  .depoimentos img{
+    padding-top: 32px;
+    border-radius: 200px;
+  }
+
+  .depoimentos .nome{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    
+    /* identical to box height, or 150% */
+    text-align: center;
+    
+    /* Gray/900 */
+    color: #101828;
+  }
+
+  .depoimentos .cargo{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+
+/* identical to box height, or 143% */
+text-align: center;
+
+/* Gray/500 */
+color: #667085;
+padding-bottom: 64px;
+margin-bottom: 96px;
+
+  }
